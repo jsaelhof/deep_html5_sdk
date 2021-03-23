@@ -1,0 +1,16 @@
+{
+  "config": {
+    "minify": true
+  },
+  "devDependencies": {
+    "@types/jquery": "2.0.34",
+    "@types/createjs": "0.0.29",
+    "typescript": "2.0.10",
+    "uglify-js": "2.7.4",
+    "fs-extra": "1.0.0",
+    "xml2js": "0.4.17"
+  },
+  "scripts": {
+    "build": "node scripts/build.js"
+  }
+}

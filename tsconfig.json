@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "system",
+    "removeComments": true,
+    "noEmitOnError": true,
+    "outFile": "target/temp/deepsdk.js",
+    "target": "es5",
+    "declaration": true
+  },
+  "include": [
+    "src/main/typescript/**/*"
+  ]
+}
